@@ -34,12 +34,14 @@ To build and use a Sweep you will need:
 
 * 1x PCB Kit
 * 2x nice!nanos
-* 34 choc v1 switches
-* 34 keycaps (including 2 homing keycaps)
-* Some little rubber feet/bumpers
+* 2x IC header strip (M)
+* 2x IC header strip (F)
 * 1x TRRS Cable
 * 2x TRRS Jack [PJ-320A]
 * 1 USB C Cable
+* 34 choc v1 switches
+* 34 keycaps (including 2 homing keycaps)
+* Some little rubber feet/bumpers
 
 ## How do I make this thing?
 

@@ -49,10 +49,8 @@ https://www.youtube.com/watch?v=fBPu7AyDtkM
 
 ## Firmware
 
-The firmware can be found [with the Ferris firmware as part of QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ferris/sweep).
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/ferris/sweep
 
-Firmware for zmk and bluemicro_ble is called ["Cradio"](https://zmk.dev/docs/hardware/).
+## Attribution
 
-## Who made this?
-
-This repo is a direct fork of the wonderful work done by davidphilipbarr here: https://github.com/davidphilipbarr/Sweep
+https://github.com/davidphilipbarr/Sweep

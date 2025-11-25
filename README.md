@@ -28,7 +28,7 @@ To order the PCB the following settings are recommended:
 
 2: Settings are taken from [Kyek's video guide](https://www.youtube.com/watch?v=fBPu7AyDtkM&t=17s).
 
-## Components list
+## Components List
 
 To build and use a Sweep you will need:
 
@@ -43,11 +43,9 @@ To build and use a Sweep you will need:
 * 34 keycaps (including 2 homing keycaps)
 * Some little rubber feet/bumpers
 
-## How do I make this thing?
+## Build Guide
 
-<a href="https://www.youtube.com/watch?v=fBPu7AyDtkM" target="_blank">
-  <img src="https://gist.githubusercontent.com/duckyb/337340baa1f0c8bcc06fef7b3b57242b/raw/97e6e0748dd1b8a3fb54fac0a88e84e6b6e0e10a/build-guide-button.svg" height="44">
-</a>
+https://www.youtube.com/watch?v=fBPu7AyDtkM
 
 ## Firmware
 

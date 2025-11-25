@@ -2,11 +2,9 @@
 ![](./front.png)
 ![](./back.png)
 
-This is the main Choc v1 board we all know and love.
-
 ## Ordering The PCB
 
-To order the PCB the following settings are recommended<sup>1,2</sup>: 
+To order the PCB the following settings are recommended: 
 
 |Detail|Value|
 |---|---|
@@ -35,15 +33,13 @@ To order the PCB the following settings are recommended<sup>1,2</sup>:
 To build and use a Sweep you will need:
 
 * 1x PCB Kit
-* 2x promicro compatible boards or 2 nice!nanos.
-* 34 switches of a compatible type (refer to the compatibility table)
-* 34 keycaps
-* 2x reset switches (optional; [B3U-1000P(M)](https://github.com/davidphilipbarr/Sweep/issues/20))
+* 2x nice!nanos
+* 34 choc v1 switches
+* 34 keycaps (including 2 homing keycaps)
 * Some little rubber feet/bumpers
-* 2x power switches (optional if supported; MSK 12C02)
-* 1x TRRS (not TRS!) cable (wired build only)
-* 2x TRRS Jack [PJ-320A] (wired build only)
-* 1 USB Cable (depends on your micro-controller choice)
+* 1x TRRS Cable
+* 2x TRRS Jack [PJ-320A]
+* 1 USB C Cable
 
 ## How do I make this thing?
 
@@ -53,7 +49,7 @@ To build and use a Sweep you will need:
 
 ## Firmware
 
-The firmware can be found [with the Ferris  firmware as part of QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ferris/sweep).
+The firmware can be found [with the Ferris firmware as part of QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ferris/sweep).
 
 Firmware for zmk and bluemicro_ble is called ["Cradio"](https://zmk.dev/docs/hardware/).
 
